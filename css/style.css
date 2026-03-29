@@ -859,6 +859,10 @@ p {
 .video {
   position: relative;
 }
+.video img {
+  width: 100%;
+  display: block;
+}
 
 .video-btn {
   position: absolute;
